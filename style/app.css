@@ -28,6 +28,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    min-width: 320px;
 }
 .faq-section{
     width: 920px;

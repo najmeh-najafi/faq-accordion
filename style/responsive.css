@@ -50,7 +50,7 @@
         background-image: none;
         flex-direction: column;
         padding:0 50px 50px;
-        margin-top: 148px;
+        margin-top: 250px;
     }
     .faq-section__content{
        margin-left: 0;
@@ -89,6 +89,7 @@
     }
     .faq-section{
         padding: 0 24px 50px;
+        margin-top: 150px;
     }
     .faq-item__question{
         font-size: 12px;
