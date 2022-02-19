@@ -93,5 +93,7 @@
     .faq-item__question{
         font-size: 12px;
     }
-
+    .faq-section__image-wrapper .main-image img{
+       left:-37px
+     }
 }
